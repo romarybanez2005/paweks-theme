@@ -1,0 +1,17 @@
+/*
+Theme Name: Custom Theme — Student Portfolio
+Theme URI: https://example.com/
+Author: Your Name
+Author URI: https://example.com/
+Description: A modern, responsive student portfolio theme with a white and maroon palette, dark mode, about and skills sections, member profiles, projects and a project filter.
+Version: 2.1.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: custom-theme
+Tags: portfolio, team, custom-menu, featured-images, responsive-layout
+
+The main stylesheet lives in assets/css/theme.css and is enqueued by functions.php.
+*/
